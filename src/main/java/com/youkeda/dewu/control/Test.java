@@ -12,7 +12,7 @@ public class Test {
     private static   long  count = 0;
     public static void main(String[] args) {
         calc();
-
+        System.out.println("今天天气好");
     }
 
     private void add10K() {
